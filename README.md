@@ -1,4 +1,6 @@
-# Starynight / 模拟与混合信号设计
+# defineiocc02
+
+![状态](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-%E6%B4%BB%E8%B7%83-2ea043?style=flat-square) ![类型](https://img.shields.io/badge/%E7%B1%BB%E5%9E%8B-%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5-6e7781?style=flat-square) ![技术栈](https://img.shields.io/badge/%E6%8A%80%E6%9C%AF%E6%A0%88-Markdown-6e7781?style=flat-square) ![许可](https://img.shields.io/badge/%E8%AE%B8%E5%8F%AF-%E6%9C%AA%E6%8C%87%E5%AE%9A-6e7781?style=flat-square)
 
 > 我是 Starynight，做 SAR ADC 的行为建模、数字校准与硬件验证，同时记录深度学习与体系结构的学习。
 
